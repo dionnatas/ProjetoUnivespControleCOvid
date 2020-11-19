@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">ControleCovidApp</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Senha</string>
+    <string name="action_sign_in">Entrar ou registrar</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Bem Vindo !"</string>
+    <string name="invalid_username">Usuário Inválido</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="fun_o">Função:</string>
+    <string name="cadastro_de_usu_rio">Cadastro de usuário</string>
+    <string name="professor">Professor</string>
+    <string name="agente">Agente</string>
+    <string name="coordena_o">Coordenação</string>
+    <string name="dire_o">Direção</string>
+    <string name="nome">Nome:</string>
+    <string name="e_mail">E-mail:</string>
+    <string name="salvar">Salvar</string>
+    <string name="limpar">Limpar</string>
+    <string name="cadastro_de_alunos">Cadastro de Alunos</string>
+    <string name="metr_nibus">Metrô / Ônibus</string>
+    <string name="s_rie_turma">Série / Turma</string>
+    <string name="r_a">R.A</string>
+    <string name="como_chega_at_a_escola">Como chega até a escola?</string>
+    <string name="carro_particular_carona">Carro Particular / Carona</string>
+    <string name="transporte_escolar">Transporte Escolar</string>
+    <string name="a_p">A pé</string>
+    <string name="nome_completo">Nome Completo</string>
+    <string name="controle_sanit_rio">Controle Sanitário</string>
+    <string name="todo">TODO</string>
+    <string-array name="opcLocomocaoAluno">
+        <item>Desacompanhado(a) / Sozinho(a)</item>
+        <item>Acompanhado(a) / Com amigos(as)</item>
+    </string-array>
+</resources>
